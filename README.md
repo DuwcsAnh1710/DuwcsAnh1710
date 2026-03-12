@@ -279,5 +279,15 @@ Tech Stack
 
 <i>Technology is not only about writing code.  
 It is about solving problems and creating meaningful experiences.</i>
+---
 
+## Contribution Landscape
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/main/profile-3d-contrib/profile-night-rainbow.svg"/>
+
+</p>
+
+---
 </p>
