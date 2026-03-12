@@ -37,14 +37,12 @@ Focused on user-centered design and practical digital product development
 
 ---
 
-## Portfolio
+# Portfolio
 
 <p align="center">
 
 <a href="https://duwcsanh1710.github.io/Personal-Website/home.html">
-
 <img src="https://opengraph.githubassets.com/1/DuwcsAnh1710/Personal-Website" width="85%"/>
-
 </a>
 
 </p>
@@ -66,7 +64,7 @@ It highlights my work in **UI/UX design, interaction design, and digital product
 
 ---
 
-## About
+# About
 
 <p align="center">
 
@@ -89,7 +87,7 @@ Currently seeking **UI/UX internship opportunities in 2025** to gain real-world 
 
 ---
 
-## Selected Projects
+# Selected Projects
 
 <table>
 
@@ -165,7 +163,7 @@ Tech Stack
 
 ---
 
-## GitHub Statistics
+# GitHub Statistics
 
 <p align="center">
 
@@ -183,59 +181,41 @@ Tech Stack
 
 ---
 
-## Technology Stack
+# Technology Stack
 
 ### Programming Languages
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=cpp,kotlin,js,php"/>
-
 </p>
-
----
 
 ### Frameworks and Development
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,flutter,dotnet"/>
-
 </p>
-
----
 
 ### Cloud and Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,git,github"/>
-
 </p>
-
----
 
 ### Databases
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-
 </p>
-
----
 
 ### Design Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=figma,ps"/>
-
 </p>
 
 ---
 
-## Connect
+# Connect
 
 <p align="center">
 
@@ -259,7 +239,7 @@ Tech Stack
 
 ---
 
-## Activity Overview
+# Activity Overview
 
 <p align="center">
 
@@ -279,15 +259,15 @@ Tech Stack
 
 <i>Technology is not only about writing code.  
 It is about solving problems and creating meaningful experiences.</i>
----
-
-## Contribution Landscape
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/main/profile-3d-contrib/profile-night-rainbow.svg"/>
 
 </p>
 
 ---
+
+# Contribution Landscape
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/main/profile-night-rainbow.svg"/>
+
 </p>
