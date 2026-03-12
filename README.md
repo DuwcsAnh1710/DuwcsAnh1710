@@ -32,7 +32,7 @@ This portfolio presents selected projects, design explorations, and technical ex
 
 ## About
 
-I am **Lê Đức Anh**, a third-year **UI/UX Design student at UTH University (2023–2026)**.  
+Im **Lê Đức Anh**, a third-year **UI/UX Design student at University of Transport Ho Chi Minh City (2023–2027)**.  
 My primary interests lie in **user research, interaction design, and building practical digital experiences** that address real problems within student communities.
 
 My workflow typically combines **research, wireframing, and rapid prototyping**, supported by tools such as **Figma, HTML/CSS, and collaborative documentation platforms**.
