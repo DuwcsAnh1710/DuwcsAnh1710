@@ -1,14 +1,13 @@
 <!-- Animated Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Duc%20Anh&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Le%20Duc%20Anh&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=23&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=UI%2FUX+Design+Student;Designing+Digital+Experiences;Building+Practical+Projects;Continuously+Learning+Modern+Technologies"/>
 </p>
 
-<h2 align="center">Lê Đức Anh</h2>
 
 <p align="center">
 UI/UX Design · University of Transport Ho Chi Minh City · Vietnam
