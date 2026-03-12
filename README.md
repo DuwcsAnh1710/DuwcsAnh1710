@@ -35,6 +35,12 @@ Focused on user-centered design and practical digital product development
 
 </p>
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
 ---
 
 # Portfolio
@@ -250,16 +256,6 @@ Tech Stack
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuwcsAnh1710&theme=tokyonight"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
