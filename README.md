@@ -255,10 +255,51 @@ Tech Stack
 
 ---
 
+# Contribution Snake
+
 <p align="center">
 
-<i>Technology is not only about writing code.  
-It is about solving problems and creating meaningful experiences.</i>
+<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# Animated Skyline
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/main/profile-night-view.svg"/>
+
+</p>
+
+---
+
+# GitHub Metrics
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/DuwcsAnh1710?template=classic&base.header=0&base.repositories=0&config.timezone=Asia%2FHo_Chi_Minh"/>
+
+</p>
+
+---
+
+# Coding Time
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DuwcsAnh1710&theme=tokyonight"/>
+
+</p>
+
+---
+
+# AI Coding Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=DuwcsAnh1710&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight"/>
 
 </p>
 
@@ -269,5 +310,16 @@ It is about solving problems and creating meaningful experiences.</i>
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/DuwcsAnh1710/DuwcsAnh1710/main/profile-night-rainbow.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>
+Technology is not only about writing code.  
+It is about solving problems and creating meaningful experiences.
+</i>
 
 </p>
