@@ -117,19 +117,27 @@ I am currently seeking **UI/UX internship opportunities in 2025**, where I can c
 
 ---
 
-## Contact
+## Connect
 
-Discord  
-https://discord.com/users/1446111508667830357  
+<p align="center">
 
-Facebook  
-https://www.facebook.com/leeducanh1710/
+<a href="https://discord.com/users/1446111508667830357">
+<img src="https://img.shields.io/badge/Discord-Contact-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
-Instagram  
-https://www.instagram.com/_lee.duwcs.anhz/
+<a href="https://www.facebook.com/leeducanh1710/">
+<img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-YouTube  
-https://www.youtube.com/@LeeDuwcsAnh
+<a href="https://www.instagram.com/_lee.duwcs.anhz/">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@LeeDuwcsAnh">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
